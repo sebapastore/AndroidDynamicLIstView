@@ -8,6 +8,7 @@ import com.sebapastore.dynamiclistview.R;
 /**
  * Created by seba on 04/01/16.
  * Hola
+ * Chau
  */
 public class CourseListActivity extends ListActivity {
     public void onCreate(Bundle savedInstanceState) {
